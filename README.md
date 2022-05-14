@@ -11,7 +11,7 @@ The following figures show four different results when using a window size of 7,
 <img src="./results/part1_7x7.png" width=350> <img src="./results/part1_11x11.png" width=300> <img src="./results/part1_15x15.png" width=350> <img src="./results/part1_23x23.png" width=300>  
 
 # patch_match.py
-![Image A](/pic2-1.png) ![Image B](/pic2-2.png) ![Reconstructed Image (5 x 5 window)](/results/part2_5x5.png)
+![Image A](pic2-1.jpg) ![Image B](pic2-2.jpg) ![Reconstructed Image (5 x 5 window)](/results/part2_5x5.png)
 
 The following figures show four different results when using a window size of 5, 7, 9, and 15, respectively.
 
