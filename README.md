@@ -8,10 +8,10 @@
 # Results
 The following figures show four different results when using a window size of 7, 11, 15, and 23, respectively.
 
-<img style="float: left;" src="./results/part1_7x7.png" width=450, height=450>
-<img style="float: left;" src="./results/part1_11x11.png" width=400, height=400> 
-<img style="float: left;" src="./results/part1_15x15.png" width=480, height=480> 
-<img style="float: left;" src="./results/part1_23x23.png" width=410, height=410>  
+<img src="./results/part1_7x7.png" width=450>
+<img src="./results/part1_11x11.png" width=400> 
+<img src="./results/part1_15x15.png" width=480> 
+<img src="./results/part1_23x23.png" width=410>  
 
 
 # References:
