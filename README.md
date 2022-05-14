@@ -5,15 +5,15 @@
 - matplotlib == 3.3.4
 
 
-# pixel_match.py
-![](results/pixel_match.png) 
+# pixel_match.py 
+<img src="./results/pixel_match.png" width=350>
 
 The following figures show four different results when using a window size of 7, 11, 15, and 23, respectively.
 
 <img src="./results/part1_7x7.png" width=350> <img src="./results/part1_11x11.png" width=300> <img src="./results/part1_15x15.png" width=350> <img src="./results/part1_23x23.png" width=300>  
 
 # patch_match.py
-![](results/patch_match.png) 
+<img src="./results/patch_match.png" width=350>
 
 The following figures show four different results when using a window size of 5, 7, 9, and 15, respectively.
 
