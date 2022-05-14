@@ -6,18 +6,18 @@
 
 
 # pixel_match.py 
-<img src="./results/pixel_match.png" width=800>
+<img src="./results/pixel_match.png" width=700>
 
 The following figures show four different results when using a window size of 7, 11, 15, and 23, respectively.
 
-<img src="./results/part1_7x7.png" width=350> <img src="./results/part1_11x11.png" width=300> <img src="./results/part1_15x15.png" width=350> <img src="./results/part1_23x23.png" width=300>  
+<img src="./results/part1_7x7.png" width=250> <img src="./results/part1_11x11.png" width=230> <img src="./results/part1_15x15.png" width=250> <img src="./results/part1_23x23.png" width=230>  
 
 # patch_match.py
 <img src="./results/patch_match.png" width=800>
 
 The following figures show four different results when using a window size of 5, 7, 9, and 15, respectively.
 
-<img src="./results/part2_5x5.png" width=200> <img src="./results/part2_7x7.png" width=200>  <img src="./results/part2_9x9.png" width=200> <img src="./results/part2_15x15.png" width=200> 
+<img src="./results/part2_5x5.png" width=210> <img src="./results/part2_7x7.png" width=210>  <img src="./results/part2_9x9.png" width=210> <img src="./results/part2_15x15.png" width=210> 
 
 # References:
 [1] Texture synthesis by non-parametric sampling: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/papers/efros-iccv99.pdf  
