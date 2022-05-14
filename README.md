@@ -6,7 +6,7 @@
 
 
 # pixel_match.py 
-<img src="./results/pixel_match.png" width=700>
+<img src="./results/pixel_match.png" width=600>
 
 The following figures show four different results when using a window size of 7, 11, 15, and 23, respectively.
 
@@ -17,7 +17,7 @@ The following figures show four different results when using a window size of 7,
 
 The following figures show four different results when using a window size of 5, 7, 9, and 15, respectively.
 
-<img src="./results/part2_5x5.png" width=210> <img src="./results/part2_7x7.png" width=210>  <img src="./results/part2_9x9.png" width=210> <img src="./results/part2_15x15.png" width=210> 
+<img src="./results/part2_5x5.png" width=220> <img src="./results/part2_7x7.png" width=220>  <img src="./results/part2_9x9.png" width=220> <img src="./results/part2_15x15.png" width=220> 
 
 # References:
 [1] Texture synthesis by non-parametric sampling: https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/papers/efros-iccv99.pdf  
